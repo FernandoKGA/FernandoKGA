@@ -2,10 +2,10 @@
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=FernandoKGA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="FernandoKGA's GitHub stats"/>
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=FernandoKGA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="FernandoKGA's GitHub stats"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoKGA&layout=compact&langs_count=10&theme=dracula&exclude_repo=portfolio_optimization,translated-content,react-admin,ruffle,expo-cli,Updated-Carbanak-Source-with-Plugins" alt="Top Langs"/>
+    <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoKGA&layout=compact&langs_count=10&theme=dracula&exclude_repo=portfolio_optimization,translated-content,react-admin,ruffle,expo-cli,Updated-Carbanak-Source-with-Plugins" alt="Top Langs"/>
   </a>
 </div>
 
